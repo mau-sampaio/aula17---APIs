@@ -27,9 +27,11 @@ h1{
   background-color: white;
   border-radius: 20px;
   margin: 0 auto;
-  height: 200px;
+  min-height: 200px;
   width: 50%;
   max-width: 400px;
+  text-align: center;
+  padding: 20px;
 }
 
 .btnContainer{
